@@ -1,0 +1,579 @@
+Thành phố Hà Nội		Quận Ba Đình		Phường Phúc Xá
+Thành phố Hà Nội		Quận Ba Đình		Phường Trúc Bạch
+Thành phố Hà Nội		Quận Ba Đình		Phường Vĩnh Phúc
+Thành phố Hà Nội		Quận Ba Đình		Phường Cống Vị
+Thành phố Hà Nội		Quận Ba Đình		Phường Liễu Giai
+Thành phố Hà Nội		Quận Ba Đình		Phường Nguyễn Trung Trực
+Thành phố Hà Nội		Quận Ba Đình		Phường Quán Thánh
+Thành phố Hà Nội		Quận Ba Đình		Phường Ngọc Hà
+Thành phố Hà Nội		Quận Ba Đình		Phường Điện Biên
+Thành phố Hà Nội		Quận Ba Đình		Phường Đội Cấn
+Thành phố Hà Nội		Quận Ba Đình		Phường Ngọc Khánh
+Thành phố Hà Nội		Quận Ba Đình		Phường Kim Mã
+Thành phố Hà Nội		Quận Ba Đình		Phường Giảng Võ
+Thành phố Hà Nội		Quận Ba Đình		Phường Thành Công
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Phúc Tân
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Đồng Xuân
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Mã
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Buồm
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Đào
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Bồ
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Cửa Đông
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Lý Thái Tổ
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Bạc
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Gai
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Chương Dương
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Trống
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Cửa Nam
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Bông
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Tràng Tiền
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Trần Hưng Đạo
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Phan Chu Trinh
+Thành phố Hà Nội		Quận Hoàn Kiếm		Phường Hàng Bài
+Thành phố Hà Nội		Quận Tây Hồ		Phường Phú Thượng
+Thành phố Hà Nội		Quận Tây Hồ		Phường Nhật Tân
+Thành phố Hà Nội		Quận Tây Hồ		Phường Tứ Liên
+Thành phố Hà Nội		Quận Tây Hồ		Phường Quảng An
+Thành phố Hà Nội		Quận Tây Hồ		Phường Xuân La
+Thành phố Hà Nội		Quận Tây Hồ		Phường Yên Phụ
+Thành phố Hà Nội		Quận Tây Hồ		Phường Bưởi
+Thành phố Hà Nội		Quận Tây Hồ		Phường Thụy Khuê
+Thành phố Hà Nội		Quận Long Biên		Phường Thượng Thanh
+Thành phố Hà Nội		Quận Long Biên		Phường Ngọc Thụy
+Thành phố Hà Nội		Quận Long Biên		Phường Giang Biên
+Thành phố Hà Nội		Quận Long Biên		Phường Đức Giang
+Thành phố Hà Nội		Quận Long Biên		Phường Việt Hưng
+Thành phố Hà Nội		Quận Long Biên		Phường Gia Thụy
+Thành phố Hà Nội		Quận Long Biên		Phường Ngọc Lâm
+Thành phố Hà Nội		Quận Long Biên		Phường Phúc Lợi
+Thành phố Hà Nội		Quận Long Biên		Phường Bồ Đề
+Thành phố Hà Nội		Quận Long Biên		Phường Sài Đồng
+Thành phố Hà Nội		Quận Long Biên		Phường Long Biên
+Thành phố Hà Nội		Quận Long Biên		Phường Thạch Bàn
+Thành phố Hà Nội		Quận Long Biên		Phường Phúc Đồng
+Thành phố Hà Nội		Quận Long Biên		Phường Cự Khối
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Nghĩa Đô
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Nghĩa Tân
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Mai Dịch
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Dịch Vọng
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Dịch Vọng Hậu
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Quan Hoa
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Yên Hoà
+Thành phố Hà Nội		Quận Cầu Giấy		Phường Trung Hoà
+Thành phố Hà Nội		Quận Đống Đa		Phường Cát Linh
+Thành phố Hà Nội		Quận Đống Đa		Phường Văn Miếu
+Thành phố Hà Nội		Quận Đống Đa		Phường Quốc Tử Giám
+Thành phố Hà Nội		Quận Đống Đa		Phường Láng Thượng
+Thành phố Hà Nội		Quận Đống Đa		Phường Ô Chợ Dừa
+Thành phố Hà Nội		Quận Đống Đa		Phường Văn Chương
+Thành phố Hà Nội		Quận Đống Đa		Phường Hàng Bột
+Thành phố Hà Nội		Quận Đống Đa		Phường Láng Hạ
+Thành phố Hà Nội		Quận Đống Đa		Phường Khâm Thiên
+Thành phố Hà Nội		Quận Đống Đa		Phường Thổ Quan
+Thành phố Hà Nội		Quận Đống Đa		Phường Nam Đồng
+Thành phố Hà Nội		Quận Đống Đa		Phường Trung Phụng
+Thành phố Hà Nội		Quận Đống Đa		Phường Quang Trung
+Thành phố Hà Nội		Quận Đống Đa		Phường Trung Liệt
+Thành phố Hà Nội		Quận Đống Đa		Phường Phương Liên
+Thành phố Hà Nội		Quận Đống Đa		Phường Thịnh Quang
+Thành phố Hà Nội		Quận Đống Đa		Phường Trung Tự
+Thành phố Hà Nội		Quận Đống Đa		Phường Kim Liên
+Thành phố Hà Nội		Quận Đống Đa		Phường Phương Mai
+Thành phố Hà Nội		Quận Đống Đa		Phường Ngã Tư Sở
+Thành phố Hà Nội		Quận Đống Đa		Phường Khương Thượng
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Nguyễn Du
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Bạch Đằng
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Phạm Đình Hổ
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Lê Đại Hành
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Đồng Nhân
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Phố Huế
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Đống Mác
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Thanh Lương
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Thanh Nhàn
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Cầu Dền
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Bách Khoa
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Đồng Tâm
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Vĩnh Tuy
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Bạch Mai
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Quỳnh Mai
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Quỳnh Lôi
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Minh Khai
+Thành phố Hà Nội		Quận Hai Bà Trưng		Phường Trương Định
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Thanh Trì
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Vĩnh Hưng
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Định Công
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Mai Động
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Tương Mai
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Đại Kim
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Tân Mai
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Hoàng Văn Thụ
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Giáp Bát
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Lĩnh Nam
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Thịnh Liệt
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Trần Phú
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Hoàng Liệt
+Thành phố Hà Nội		Quận Hoàng Mai		Phường Yên Sở
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Nhân Chính
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Thượng Đình
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Khương Trung
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Khương Mai
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Thanh Xuân Trung
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Phương Liệt
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Hạ Đình
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Khương Đình
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Thanh Xuân Bắc
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Thanh Xuân Nam
+Thành phố Hà Nội		Quận Thanh Xuân		Phường Kim Giang
+Thành phố Hà Nội		Huyện Sóc Sơn		Thị trấn Sóc Sơn
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Bắc Sơn
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Minh Trí
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Hồng Kỳ
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Nam Sơn
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Trung Giã
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Tân Hưng
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Minh Phú
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Phù Linh
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Bắc Phú
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Tân Minh
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Quang Tiến
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Hiền Ninh
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Tân Dân
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Tiên Dược
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Việt Long
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Xuân Giang
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Mai Đình
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Đức Hoà
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Thanh Xuân
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Đông Xuân
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Kim Lũ
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Phú Cường
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Phú Minh
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Phù Lỗ
+Thành phố Hà Nội		Huyện Sóc Sơn		Xã Xuân Thu
+Thành phố Hà Nội		Huyện Đông Anh		Thị trấn Đông Anh
+Thành phố Hà Nội		Huyện Đông Anh		Xã Xuân Nộn
+Thành phố Hà Nội		Huyện Đông Anh		Xã Thuỵ Lâm
+Thành phố Hà Nội		Huyện Đông Anh		Xã Bắc Hồng
+Thành phố Hà Nội		Huyện Đông Anh		Xã Nguyên Khê
+Thành phố Hà Nội		Huyện Đông Anh		Xã Nam Hồng
+Thành phố Hà Nội		Huyện Đông Anh		Xã Tiên Dương
+Thành phố Hà Nội		Huyện Đông Anh		Xã Vân Hà
+Thành phố Hà Nội		Huyện Đông Anh		Xã Uy Nỗ
+Thành phố Hà Nội		Huyện Đông Anh		Xã Vân Nội
+Thành phố Hà Nội		Huyện Đông Anh		Xã Liên Hà
+Thành phố Hà Nội		Huyện Đông Anh		Xã Việt Hùng
+Thành phố Hà Nội		Huyện Đông Anh		Xã Kim Nỗ
+Thành phố Hà Nội		Huyện Đông Anh		Xã Kim Chung
+Thành phố Hà Nội		Huyện Đông Anh		Xã Dục Tú
+Thành phố Hà Nội		Huyện Đông Anh		Xã Đại Mạch
+Thành phố Hà Nội		Huyện Đông Anh		Xã Vĩnh Ngọc
+Thành phố Hà Nội		Huyện Đông Anh		Xã Cổ Loa
+Thành phố Hà Nội		Huyện Đông Anh		Xã Hải Bối
+Thành phố Hà Nội		Huyện Đông Anh		Xã Xuân Canh
+Thành phố Hà Nội		Huyện Đông Anh		Xã Võng La
+Thành phố Hà Nội		Huyện Đông Anh		Xã Tàm Xá
+Thành phố Hà Nội		Huyện Đông Anh		Xã Mai Lâm
+Thành phố Hà Nội		Huyện Đông Anh		Xã Đông Hội
+Thành phố Hà Nội		Huyện Gia Lâm		Thị trấn Yên Viên
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Yên Thường
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Yên Viên
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Ninh Hiệp
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Đình Xuyên
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Dương Hà
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Phù Đổng
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Trung Mầu
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Lệ Chi
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Cổ Bi
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Đặng Xá
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Phú Thị
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Kim Sơn
+Thành phố Hà Nội		Huyện Gia Lâm		Thị trấn Trâu Quỳ
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Dương Quang
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Dương Xá
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Đông Dư
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Đa Tốn
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Kiêu Kỵ
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Bát Tràng
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Kim Lan
+Thành phố Hà Nội		Huyện Gia Lâm		Xã Văn Đức
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Cầu Diễn
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Xuân Phương
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Phương Canh
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Mỹ Đình 1
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Mỹ Đình 2
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Tây Mỗ
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Mễ Trì
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Phú Đô
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Đại Mỗ
+Thành phố Hà Nội		Quận Nam Từ Liêm		Phường Trung Văn
+Thành phố Hà Nội		Huyện Thanh Trì		Thị trấn Văn Điển
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Tân Triều
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Thanh Liệt
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Tả Thanh Oai
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Hữu Hoà
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Tam Hiệp
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Tứ Hiệp
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Yên Mỹ
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Vĩnh Quỳnh
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Ngũ Hiệp
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Duyên Hà
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Ngọc Hồi
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Vạn Phúc
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Đại áng
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Liên Ninh
+Thành phố Hà Nội		Huyện Thanh Trì		Xã Đông Mỹ
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Thượng Cát
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Liên Mạc
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Đông Ngạc
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Đức Thắng
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Thụy Phương
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Tây Tựu
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Xuân Đỉnh
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Xuân Tảo
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Minh Khai
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Cổ Nhuế 1
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Cổ Nhuế 2
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Phú Diễn
+Thành phố Hà Nội		Quận Bắc Từ Liêm		Phường Phúc Diễn
+Thành phố Hà Nội		Huyện Mê Linh		Thị trấn Chi Đông
+Thành phố Hà Nội		Huyện Mê Linh		Xã Đại Thịnh
+Thành phố Hà Nội		Huyện Mê Linh		Xã Kim Hoa
+Thành phố Hà Nội		Huyện Mê Linh		Xã Thạch Đà
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tiến Thắng
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tự Lập
+Thành phố Hà Nội		Huyện Mê Linh		Thị trấn Quang Minh
+Thành phố Hà Nội		Huyện Mê Linh		Xã Thanh Lâm
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tam Đồng
+Thành phố Hà Nội		Huyện Mê Linh		Xã Liên Mạc
+Thành phố Hà Nội		Huyện Mê Linh		Xã Vạn Yên
+Thành phố Hà Nội		Huyện Mê Linh		Xã Chu Phan
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tiến Thịnh
+Thành phố Hà Nội		Huyện Mê Linh		Xã Mê Linh
+Thành phố Hà Nội		Huyện Mê Linh		Xã Văn Khê
+Thành phố Hà Nội		Huyện Mê Linh		Xã Hoàng Kim
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tiền Phong
+Thành phố Hà Nội		Huyện Mê Linh		Xã Tráng Việt
+Thành phố Hà Nội		Quận Hà Đông		Phường Nguyễn Trãi
+Thành phố Hà Nội		Quận Hà Đông		Phường Mộ Lao
+Thành phố Hà Nội		Quận Hà Đông		Phường Văn Quán
+Thành phố Hà Nội		Quận Hà Đông		Phường Vạn Phúc
+Thành phố Hà Nội		Quận Hà Đông		Phường Yết Kiêu
+Thành phố Hà Nội		Quận Hà Đông		Phường Quang Trung
+Thành phố Hà Nội		Quận Hà Đông		Phường La Khê
+Thành phố Hà Nội		Quận Hà Đông		Phường Phú La
+Thành phố Hà Nội		Quận Hà Đông		Phường Phúc La
+Thành phố Hà Nội		Quận Hà Đông		Phường Hà Cầu
+Thành phố Hà Nội		Quận Hà Đông		Phường Yên Nghĩa
+Thành phố Hà Nội		Quận Hà Đông		Phường Kiến Hưng
+Thành phố Hà Nội		Quận Hà Đông		Phường Phú Lãm
+Thành phố Hà Nội		Quận Hà Đông		Phường Phú Lương
+Thành phố Hà Nội		Quận Hà Đông		Phường Dương Nội
+Thành phố Hà Nội		Quận Hà Đông		Phường Đồng Mai
+Thành phố Hà Nội		Quận Hà Đông		Phường Biên Giang
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Lê Lợi
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Phú Thịnh
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Ngô Quyền
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Quang Trung
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Sơn Lộc
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Xuân Khanh
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Đường Lâm
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Viên Sơn
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Xuân Sơn
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Trung Hưng
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Thanh Mỹ
+Thành phố Hà Nội		Thị xã Sơn Tây		Phường Trung Sơn Trầm
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Kim Sơn
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Sơn Đông
+Thành phố Hà Nội		Thị xã Sơn Tây		Xã Cổ Đông
+Thành phố Hà Nội		Huyện Ba Vì		Thị trấn Tây Đằng
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phú Cường
+Thành phố Hà Nội		Huyện Ba Vì		Xã Cổ Đô
+Thành phố Hà Nội		Huyện Ba Vì		Xã Tản Hồng
+Thành phố Hà Nội		Huyện Ba Vì		Xã Vạn Thắng
+Thành phố Hà Nội		Huyện Ba Vì		Xã Châu Sơn
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phong Vân
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phú Đông
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phú Phương
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phú Châu
+Thành phố Hà Nội		Huyện Ba Vì		Xã Thái Hòa
+Thành phố Hà Nội		Huyện Ba Vì		Xã Đồng Thái
+Thành phố Hà Nội		Huyện Ba Vì		Xã Phú Sơn
+Thành phố Hà Nội		Huyện Ba Vì		Xã Minh Châu
+Thành phố Hà Nội		Huyện Ba Vì		Xã Vật Lại
+Thành phố Hà Nội		Huyện Ba Vì		Xã Chu Minh
+Thành phố Hà Nội		Huyện Ba Vì		Xã Tòng Bạt
+Thành phố Hà Nội		Huyện Ba Vì		Xã Cẩm Lĩnh
+Thành phố Hà Nội		Huyện Ba Vì		Xã Sơn Đà
+Thành phố Hà Nội		Huyện Ba Vì		Xã Đông Quang
+Thành phố Hà Nội		Huyện Ba Vì		Xã Tiên Phong
+Thành phố Hà Nội		Huyện Ba Vì		Xã Thụy An
+Thành phố Hà Nội		Huyện Ba Vì		Xã Cam Thượng
+Thành phố Hà Nội		Huyện Ba Vì		Xã Thuần Mỹ
+Thành phố Hà Nội		Huyện Ba Vì		Xã Tản Lĩnh
+Thành phố Hà Nội		Huyện Ba Vì		Xã Ba Trại
+Thành phố Hà Nội		Huyện Ba Vì		Xã Minh Quang
+Thành phố Hà Nội		Huyện Ba Vì		Xã Ba Vì
+Thành phố Hà Nội		Huyện Ba Vì		Xã Vân Hòa
+Thành phố Hà Nội		Huyện Ba Vì		Xã Yên Bài
+Thành phố Hà Nội		Huyện Ba Vì		Xã Khánh Thượng
+Thành phố Hà Nội		Huyện Phúc Thọ		Thị trấn Phúc Thọ
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Vân Hà
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Vân Phúc
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Vân Nam
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Xuân Đình
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Sen Phương
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Võng Xuyên
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Thọ Lộc
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Long Xuyên
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Thượng Cốc
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Hát Môn
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Tích Giang
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Thanh Đa
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Trạch Mỹ Lộc
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Phúc Hòa
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Ngọc Tảo
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Phụng Thượng
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Tam Thuấn
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Tam Hiệp
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Hiệp Thuận
+Thành phố Hà Nội		Huyện Phúc Thọ		Xã Liên Hiệp
+Thành phố Hà Nội		Huyện Đan Phượng		Thị trấn Phùng
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Trung Châu
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Thọ An
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Thọ Xuân
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Hồng Hà
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Liên Hồng
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Liên Hà
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Hạ Mỗ
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Liên Trung
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Phương Đình
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Thượng Mỗ
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Tân Hội
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Tân Lập
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Đan Phượng
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Đồng Tháp
+Thành phố Hà Nội		Huyện Đan Phượng		Xã Song Phượng
+Thành phố Hà Nội		Huyện Hoài Đức		Thị trấn Trạm Trôi
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Đức Thượng
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Minh Khai
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Dương Liễu
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Di Trạch
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Đức Giang
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Cát Quế
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Kim Chung
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Yên Sở
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Sơn Đồng
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Vân Canh
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Đắc Sở
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Lại Yên
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Tiền Yên
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Song Phương
+Thành phố Hà Nội		Huyện Hoài Đức		Xã An Khánh
+Thành phố Hà Nội		Huyện Hoài Đức		Xã An Thượng
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Vân Côn
+Thành phố Hà Nội		Huyện Hoài Đức		Xã La Phù
+Thành phố Hà Nội		Huyện Hoài Đức		Xã Đông La
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Đông Xuân
+Thành phố Hà Nội		Huyện Quốc Oai		Thị trấn Quốc Oai
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Sài Sơn
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Phượng Cách
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Yên Sơn
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Ngọc Liệp
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Ngọc Mỹ
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Liệp Tuyết
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Thạch Thán
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Đồng Quang
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Phú Cát
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Tuyết Nghĩa
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Nghĩa Hương
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Cộng Hòa
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Tân Phú
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Đại Thành
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Phú Mãn
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Cấn Hữu
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Tân Hòa
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Hòa Thạch
+Thành phố Hà Nội		Huyện Quốc Oai		Xã Đông Yên
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Yên Trung
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Yên Bình
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Tiến Xuân
+Thành phố Hà Nội		Huyện Thạch Thất		Thị trấn Liên Quan
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Đại Đồng
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Cẩm Yên
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Lại Thượng
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Phú Kim
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Hương Ngải
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Canh Nậu
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Kim Quan
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Dị Nậu
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Bình Yên
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Chàng Sơn
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Thạch Hoà
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Cần Kiệm
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Hữu Bằng
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Phùng Xá
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Tân Xã
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Thạch Xá
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Bình Phú
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Hạ Bằng
+Thành phố Hà Nội		Huyện Thạch Thất		Xã Đồng Trúc
+Thành phố Hà Nội		Huyện Chương Mỹ		Thị trấn Chúc Sơn
+Thành phố Hà Nội		Huyện Chương Mỹ		Thị trấn Xuân Mai
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Phụng Châu
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Tiên Phương
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Đông Sơn
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Đông Phương Yên
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Phú Nghĩa
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Trường Yên
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Ngọc Hòa
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Thủy Xuân Tiên
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Thanh Bình
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Trung Hòa
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Đại Yên
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Thụy Hương
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Tốt Động
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Lam Điền
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Tân Tiến
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Nam Phương Tiến
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hợp Đồng
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hoàng Văn Thụ
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hoàng Diệu
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hữu Văn
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Quảng Bị
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Mỹ Lương
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Thượng Vực
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hồng Phong
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Đồng Phú
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Trần Phú
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Văn Võ
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Đồng Lạc
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Hòa Chính
+Thành phố Hà Nội		Huyện Chương Mỹ		Xã Phú Nam An
+Thành phố Hà Nội		Huyện Thanh Oai		Thị trấn Kim Bài
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Cự Khê
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Bích Hòa
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Mỹ Hưng
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Cao Viên
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Bình Minh
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Tam Hưng
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Thanh Cao
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Thanh Thùy
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Thanh Mai
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Thanh Văn
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Đỗ Động
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Kim An
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Kim Thư
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Phương Trung
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Tân Ước
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Dân Hòa
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Liên Châu
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Cao Dương
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Xuân Dương
+Thành phố Hà Nội		Huyện Thanh Oai		Xã Hồng Dương
+Thành phố Hà Nội		Huyện Thường Tín		Thị trấn Thường Tín
+Thành phố Hà Nội		Huyện Thường Tín		Xã Ninh Sở
+Thành phố Hà Nội		Huyện Thường Tín		Xã Nhị Khê
+Thành phố Hà Nội		Huyện Thường Tín		Xã Duyên Thái
+Thành phố Hà Nội		Huyện Thường Tín		Xã Khánh Hà
+Thành phố Hà Nội		Huyện Thường Tín		Xã Hòa Bình
+Thành phố Hà Nội		Huyện Thường Tín		Xã Văn Bình
+Thành phố Hà Nội		Huyện Thường Tín		Xã Hiền Giang
+Thành phố Hà Nội		Huyện Thường Tín		Xã Hồng Vân
+Thành phố Hà Nội		Huyện Thường Tín		Xã Vân Tảo
+Thành phố Hà Nội		Huyện Thường Tín		Xã Liên Phương
+Thành phố Hà Nội		Huyện Thường Tín		Xã Văn Phú
+Thành phố Hà Nội		Huyện Thường Tín		Xã Tự Nhiên
+Thành phố Hà Nội		Huyện Thường Tín		Xã Tiền Phong
+Thành phố Hà Nội		Huyện Thường Tín		Xã Hà Hồi
+Thành phố Hà Nội		Huyện Thường Tín		Xã Thư Phú
+Thành phố Hà Nội		Huyện Thường Tín		Xã Nguyễn Trãi
+Thành phố Hà Nội		Huyện Thường Tín		Xã Quất Động
+Thành phố Hà Nội		Huyện Thường Tín		Xã Chương Dương
+Thành phố Hà Nội		Huyện Thường Tín		Xã Tân Minh
+Thành phố Hà Nội		Huyện Thường Tín		Xã Lê Lợi
+Thành phố Hà Nội		Huyện Thường Tín		Xã Thắng Lợi
+Thành phố Hà Nội		Huyện Thường Tín		Xã Dũng Tiến
+Thành phố Hà Nội		Huyện Thường Tín		Xã Thống Nhất
+Thành phố Hà Nội		Huyện Thường Tín		Xã Nghiêm Xuyên
+Thành phố Hà Nội		Huyện Thường Tín		Xã Tô Hiệu
+Thành phố Hà Nội		Huyện Thường Tín		Xã Văn Tự
+Thành phố Hà Nội		Huyện Thường Tín		Xã Vạn Điểm
+Thành phố Hà Nội		Huyện Thường Tín		Xã Minh Cường
+Thành phố Hà Nội		Huyện Phú Xuyên		Thị trấn Phú Minh
+Thành phố Hà Nội		Huyện Phú Xuyên		Thị trấn Phú Xuyên
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Hồng Minh
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Phượng Dực
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Nam Tiến
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Tri Trung
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Đại Thắng
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Phú Túc
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Văn Hoàng
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Hồng Thái
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Hoàng Long
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Quang Trung
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Nam Phong
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Nam Triều
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Tân Dân
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Sơn Hà
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Chuyên Mỹ
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Khai Thái
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Phúc Tiến
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Vân Từ
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Tri Thủy
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Đại Xuyên
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Phú Yên
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Bạch Hạ
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Quang Lãng
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Châu Can
+Thành phố Hà Nội		Huyện Phú Xuyên		Xã Minh Tân
+Thành phố Hà Nội		Huyện Ứng Hòa		Thị trấn Vân Đình
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Viên An
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Viên Nội
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hoa Sơn
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Quảng Phú Cầu
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Trường Thịnh
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Cao Thành
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Liên Bạt
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Sơn Công
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đồng Tiến
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Phương Tú
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Trung Tú
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đồng Tân
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Tảo Dương Văn
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Vạn Thái
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Minh Đức
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hòa Lâm
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hòa Xá
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Trầm Lộng
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Kim Đường
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hòa Nam
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hòa Phú
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đội Bình
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đại Hùng
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đông Lỗ
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Phù Lưu
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Đại Cường
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Lưu Hoàng
+Thành phố Hà Nội		Huyện Ứng Hòa		Xã Hồng Quang
+Thành phố Hà Nội		Huyện Mỹ Đức		Thị trấn Đại Nghĩa
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Đồng Tâm
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Thượng Lâm
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Tuy Lai
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Phúc Lâm
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Mỹ Thành
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Bột Xuyên
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã An Mỹ
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Hồng Sơn
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Lê Thanh
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Xuy Xá
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Phùng Xá
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Phù Lưu Tế
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Đại Hưng
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Vạn Kim
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Đốc Tín
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Hương Sơn
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Hùng Tiến
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã An Tiến
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Hợp Tiến
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã Hợp Thanh
+Thành phố Hà Nội		Huyện Mỹ Đức		Xã An Phú
