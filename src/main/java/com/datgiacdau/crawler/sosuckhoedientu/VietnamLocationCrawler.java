@@ -13,8 +13,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 /**
- * @author giao.lang | fb/giao.lang.bis | https://github.com/doit-now | https://youtube.com/c/giáolàng 
- * version 22.07
+ *
+ * @author DELL
  */
 public class VietnamLocationCrawler {
 
@@ -48,21 +48,6 @@ public class VietnamLocationCrawler {
         Thread.sleep(DELAY_IN_MILLIS); //chờ chút để tải trang xong
     }
 
-    //Khởi động trình duyệt và trang tiemchungcovid19
-    //sử dụng cách mở trình duyệt kiểu truyền thống: phải kiểm tra độ tương thích version của trình duyệt và webdriver
-    public static void openCOVIDReportSiteV2() throws InterruptedException {
-
-        System.setProperty("webdriver.chrome.driver", DRIVER_PATH);
-        ChromeOptions opt = new ChromeOptions();
-        opt.addArguments("--incognito"); //mở Chrome ở chế độ ẩn danh
-
-        myBrowser = new ChromeDriver(opt);
-        myBrowser.manage().window().maximize();
-        //CẦN bung full màn hình vì trang web responsive ở chế độ hẹp sẽ sinh cấu trúc tag khác
-
-        myBrowser.get(TARGET_WEBSITE);
-        Thread.sleep(DELAY_IN_MILLIS);
-    }
 
     //Dọn dẹp trình duyệt, gỡ khỏi ram
     public static void closeCOVIDReportSite() throws InterruptedException {
