@@ -14,8 +14,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 /**
- * @author giao.lang | fb/giao.lang.bis | https://github.com/doit-now | https://youtube.com/c/giáolàng 
- * version 22.07
+ *
+ * @author DELL
  */
 public class VietnamLocationCrawlerSub {
 
